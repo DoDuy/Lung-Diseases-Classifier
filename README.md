@@ -1,13 +1,13 @@
 # Machine-Learning-Capstone-Project
 Machine Learning Capstone Project - Udacity MLND (Lung Diseases)
 
-1.Following are the file descriptions and URL’s from which the data can be obtained :
+Following are the file descriptions and URL’s from which the data can be obtained :
 ```
-• imgs.zip - zipped folder of all (train/test) images
-• sample_submission.csv - a sample submission file in the correct format
-• driver_imgs_list.csv - a list of training images, their subject (driver) id, and class id
+• data sample/sample_labels.csv: Class labels and patient data for the sample dataset
+• data sample/Data_entry_2017.csv: Class labels and patient data for the full dataset
+• data sample/images/*: 10 chest X-ray images
 
-https://www.kaggle.com/nih-chest-xrays/data/data
-https://www.kaggle.com/nih-chest-xrays/sample/data
+Full dataset: https://www.kaggle.com/nih-chest-xrays/data/data
+Sample dataset: https://www.kaggle.com/nih-chest-xrays/sample/data
 
 ```
