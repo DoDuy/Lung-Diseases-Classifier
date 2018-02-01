@@ -12,7 +12,7 @@ Sample dataset: https://www.kaggle.com/nih-chest-xrays/sample/data
 
 ```
 
-2. Following are the notebooks descriptions and python files descriptions:
+2. Following are the notebooks descriptions and python files descriptions, files log:
 ```
 Notebooks:
 • Capsule Network - FullDataset.ipynb: Capsule Network with my architecture in full dataset
@@ -32,4 +32,8 @@ Python files
 • capsulelayers.py: capsule layer from https://github.com/XifengGuo/CapsNet-Keras
 • spatial_transformer.py: spatial transformer layser from https://github.com/hello2all/GTSRB_Keras_STN
 So thank you guys for support me with capsule layer and spatial transformer layer in Keras-gpu
+
+Log:
+• FullDataset Log: all log file in full dataset
+• SampleDataset Log: all log file in sample dataset
 ```
