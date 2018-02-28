@@ -1,6 +1,8 @@
 # Machine-Learning-Capstone-Project
 Machine Learning Capstone Project - Udacity MLND (Lung Diseases)
 
+## Project Overview
+
 1. Following are the file descriptions and URL’s from which the data can be obtained:
 ```
 • data sample/sample_labels.csv: Class labels and patient data for the sample dataset
