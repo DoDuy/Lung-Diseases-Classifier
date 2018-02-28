@@ -1,7 +1,20 @@
-# Machine-Learning-Capstone-Project
-Machine Learning Capstone Project - Udacity MLND (Lung Diseases)
+# Diseases Detection from Chest X-ray data
+Machine Learning Capstone Project - Udacity MLND
 
 ## Project Overview
+With so many lung diseases people can get, here is just one example of diseases we can save if we find them out earlier.
+With the technology machine and computer power, the earlier identification of diseases, particularly lung disease, we can be helped to detect earlier and more accurately, which can save many many people as well as reduce the pressure on the system. The health system has not developed in time with the development of the population.
+
+## Metrics
+F-beta score with β = 0.5 to represent precision will be more important than recall in this case.
+
+## Algorithms and Techniques
+• CNN
+• Spacial Transformer
+• VGG finetuning
+• Capsule Network
+
+## Note
 
 1. Following are the file descriptions and URL’s from which the data can be obtained:
 ```
