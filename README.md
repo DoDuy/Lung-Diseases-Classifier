@@ -25,6 +25,22 @@ With the technology machine and computer power, the earlier identification of di
  Data_entry_2017.csv: Class labels and patient data for the entire dataset
 * Class descriptions: there are 15 classes (14 diseases, and one for "No findings"). Images can be classified as "No findings" or one or more disease classes: Atelectasis, Consolidation, Infiltration, Pneumothorax, Edema, Emphysema, Fibrosis, Effusion, Pneumonia, Pleural_thickening, Cardiomegaly, Nodule Mass, Hernia.
 
+## Algorithms and Techniques
+* CNN
+* Spacial Transformer
+* VGG finetuning
+* Capsule Network
+### Architecture
+
+#### Vallina CNN
+![](./images/vallina.jpg)
+
+#### Optimized CNN
+![](./images/Optimized%20CNN.jpg)
+
+#### CapsNet
+![](./images/CapsNet.jpg)
+
 ## Metrics & Result
 F-beta score with β = 0.5 to represent precision will be more important than recall in this case.
 
@@ -52,12 +68,33 @@ In full dataset:
 | CapsNet basic	| 0.64	| 0.498	| 0.605	| 0.635	| 1815 s	| 14788864 | 
 | CapsNet changed	| 0.625	| 0.474	| 0.588	| 0.625	| 856 s	| 12167424 |  
 
-
-## Algorithms and Techniques
-• CNN
-• Spacial Transformer
-• VGG finetuning
-• Capsule Network
+## Installation
+### [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html) with [python3](http://docs.python-guide.org/en/latest/starting/install3/linux/)
+```sh
+$ sudo apt-get update
+$ sudo apt-get install python3-pip python3-dev
+$ pip3 install --upgrade pip
+$ pip3 install jupyter
+```
+### [Tensorflow](https://www.tensorflow.org/install/install_linux) for GPU
+```sh
+$ pip3 install tensorflow     # Python 3.n; CPU support (no GPU support)
+$ pip3 install tensorflow-gpu # Python 3.n; GPU support 
+```
+### [Keras](https://keras.io/#installation) for GPU
+```sh
+$ pip3 install keras
+```
+### Others
+* numpy
+* pandas
+* seaborn
+* matplotlib
+* opencv
+* glob
+* tqdm
+* sklearn
+* pickle
 
 ## Note
 
@@ -66,9 +103,6 @@ In full dataset:
 • data sample/sample_labels.csv: Class labels and patient data for the sample dataset
 • data sample/Data_entry_2017.csv: Class labels and patient data for the full dataset
 • data sample/images/*: 10 chest X-ray images
-
-Full dataset: https://www.kaggle.com/nih-chest-xrays/data/data
-Sample dataset: https://www.kaggle.com/nih-chest-xrays/sample/data
 
 ```
 
