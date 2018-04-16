@@ -97,7 +97,7 @@ $ pip3 install keras
 * pickle
 
 ## Note
-1. Run [Data preprocessing](./Data%20preprocessing%20-%20SampleDataset.ipynb) first to create preprocessing file in sample dataset before run other notebook for Sample dataset.  
+1. Run [Data preprocessing](./Data%20preprocessing%20-%20SampleDataset.ipynb) first to create preprocessing file in Sample dataset before run other notebook for Sample dataset.  
 
 2. Following are the file descriptions and URL’s from which the data can be obtained:
 * data sample/sample_labels.csv: Class labels and patient data for the sample dataset
