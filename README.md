@@ -119,8 +119,8 @@ Notebooks:
 * vanilla CNN - SampleDataset.ipynb: Vanilla CNN in sample dataset
 
 Python files
-* capsulelayers.py: capsule layer from https://github.com/XifengGuo/CapsNet-Keras
-* spatial_transformer.py: spatial transformer layser from https://github.com/hello2all/GTSRB_Keras_STN
+* capsulelayers.py: capsule layer from [XifengGuo](https://github.com/XifengGuo/CapsNet-Keras)
+* spatial_transformer.py: spatial transformer layser from [hello2all](https://github.com/hello2all/GTSRB_Keras_STN)
 So thank you guys for support me with capsule layer and spatial transformer layer in Keras-gpu
 
 Log:
