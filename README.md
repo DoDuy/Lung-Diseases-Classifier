@@ -99,15 +99,11 @@ $ pip3 install keras
 ## Note
 
 1. Following are the file descriptions and URL’s from which the data can be obtained:
-```
 • data sample/sample_labels.csv: Class labels and patient data for the sample dataset
 • data sample/Data_entry_2017.csv: Class labels and patient data for the full dataset
 • data sample/images/*: 10 chest X-ray images
 
-```
-
 2. Following are the notebooks descriptions and python files descriptions, files log:
-```
 Notebooks:
 • Capsule Network - FullDataset.ipynb: Capsule Network with my architecture in full dataset
 • Capsule Network - SampleDataset.ipynb: Capsule Network with my architecture in sample dataset
@@ -130,4 +126,3 @@ So thank you guys for support me with capsule layer and spatial transformer laye
 Log:
 • FullDataset Log: all log file in full dataset
 • SampleDataset Log: all log file in sample dataset
-```
