@@ -97,13 +97,14 @@ $ pip3 install keras
 * pickle
 
 ## Note
+1. Run [Data preprocessing](./Data%20preprocessing%20-%20SampleDataset.ipynb) first to create preprocessing file in sample dataset before run other notebook for Sample dataset.  
 
-1. Following are the file descriptions and URL’s from which the data can be obtained:
+2. Following are the file descriptions and URL’s from which the data can be obtained:
 * data sample/sample_labels.csv: Class labels and patient data for the sample dataset
 * data sample/Data_entry_2017.csv: Class labels and patient data for the full dataset
 * data sample/images/*: 10 chest X-ray images
 
-2. Following are the notebooks descriptions and python files descriptions, files log:
+3. Following are the notebooks descriptions and python files descriptions, files log:
 Notebooks:
 * Capsule Network - FullDataset.ipynb: Capsule Network with my architecture in full dataset
 * Capsule Network - SampleDataset.ipynb: Capsule Network with my architecture in sample dataset
