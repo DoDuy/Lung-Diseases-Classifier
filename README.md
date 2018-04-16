@@ -7,8 +7,9 @@ With the technology machine and computer power, the earlier identification of di
 
 ## Analysis
 ### Data Exploration
-![](./data%20sample/images/00000017_001_small.png)
+![](./images/00000017_001_small.png)
 ### Exploratory Visualization
+![](./images/chart.jpg)
 
 ## Datasets
 ### [Sample dataset](https://www.kaggle.com/nih-chest-xrays/sample)
