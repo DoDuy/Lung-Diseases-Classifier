@@ -32,7 +32,7 @@ With the technology machine and computer power, the earlier identification of di
 * Capsule Network
 ### Architecture
 
-#### Vallina CNN
+#### Vanilla CNN
 ![](./images/vallina.jpg)
 
 #### Optimized CNN
