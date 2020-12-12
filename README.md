@@ -78,8 +78,8 @@ $ pip3 install jupyter
 ```
 ### [Tensorflow](https://www.tensorflow.org/install/install_linux) for GPU
 ```sh
-$ pip3 install tensorflow     # Python 3.n; CPU support (no GPU support)
-$ pip3 install tensorflow-gpu # Python 3.n; GPU support 
+$ pip3 install tensorflow==1.8.0     # Python 3.n; CPU support (no GPU support)
+$ pip3 install tensorflow-gpu==1.8.0 # Python 3.n; GPU support 
 ```
 ### [Keras](https://keras.io/#installation) for GPU
 ```sh
